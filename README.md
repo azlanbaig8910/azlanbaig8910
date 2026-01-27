@@ -1,28 +1,41 @@
 # Hi, I'm Azlan 👋
 
-I'm a **Frontend Website Developer** with **1+ year of professional experience** building modern, responsive, and high-performance web applications using **Next.js, React, and TypeScript**.  
-I focus on clean UI, scalability, and real-world usability, and I’m currently expanding my skills toward **full-stack development**.
+I'm a **Frontend Developer** with **1+ year of professional experience** building modern, responsive, and high-performance web applications using **React, Next.js, and TypeScript**.  
+I focus on **clean UI**, **scalable frontend architecture**, and **real-world usability**, and I’m currently expanding my skills toward **backend and full-stack development**.
+
+---
 
 ## 💼 Professional Experience
 
 ### Frontend Developer — Fronx Solutions  
-**Duration:** 1+ Year
+**Duration:** Dec 2024 – Present (1+ Year)
 
-- Developed and maintained responsive frontend applications
-- Built reusable React components with clean, scalable architecture
-- Worked with Next.js and TypeScript in production environments
-- Collaborated with designers and backend teams to deliver complete features
+- Developed and maintained production-level frontend applications
+- Built reusable and scalable UI components using **React & Next.js**
+- Worked with **TypeScript** to ensure maintainable and type-safe code
+- Collaborated with designers and backend teams to ship complete features
 - Improved UI consistency, performance, and overall user experience
+- Followed modern frontend best practices and component-driven development
+
+### Frontend Developer Intern — Personide Solutions  
+**Duration:** Sep 2024 – Dec 2024 (3 Months)
+
+- Assisted in building responsive web interfaces
+- Implemented UI components based on design requirements
+- Gained hands-on experience with real-world frontend workflows
+- Learned professional development practices, Git collaboration, and debugging
+
+---
 
 ## 🚀 Skills & Technologies
 
 ### Frontend Development
-- Next.js (App Router)
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS, Bootstrap
+- ⚛️ React
+- 🚀 Next.js (App Router)
+- 🟦 TypeScript
+- 🟨 JavaScript (ES6+)
+- 🧱 HTML5 & CSS3
+- 🎨 Tailwind CSS, Bootstrap
 
 ### State & Architecture
 - React Context API
@@ -40,7 +53,9 @@ I focus on clean UI, scalability, and real-world usability, and I’m currently 
 - Gemini
 - GitHub Copilot  
 
-> I use AI tools to augment development, speed up learning, and improve problem-solving — while fully understanding and controlling the final code.
+> I use AI tools to **accelerate learning, debugging, and development**, while fully understanding and owning the final code.
+
+---
 
 ## 📚 Currently Learning & Exploring
 
@@ -51,19 +66,27 @@ I focus on clean UI, scalability, and real-world usability, and I’m currently 
 
 ### Backend & Full-Stack Foundations
 - Backend fundamentals (APIs, server-side logic)
-- Data handling and authentication concepts
+- Authentication & data handling concepts
 - Learning backend development alongside AI-assisted workflows
 
-## 📌 Featured Project
+---
 
-### GoatLifestyle – E-Commerce Frontend
-- Built with Next.js (App Router)
-- TypeScript-based codebase
-- Tailwind CSS for styling
-- React Context API for state management
-- Fully responsive, modern UI
+## 🌟 Featured Project
 
-👉 Repository: https://github.com/azlanbaig8910/GoatLifestyle
+### Hiralent — Hiring & Job Listing Platform
+- Modern frontend built with **React & Next.js**
+- Responsive layouts and reusable UI components
+- Authentication-based user flows
+- Dynamic job feeds, company profiles, and dashboards
+- Focus on performance, accessibility, and smooth navigation
+
+🌐 Live: https://hiralent-beta.vercel.app
+🔗 Source Code: https://github.com/azlanbaig8910/Hiralent
+
+---
 
 ## 📫 Contact
-GitHub: https://github.com/azlanbaig8910
+
+- 📩 Email: azlanbaig8910@gmail.com
+- 🌐 Website: https://azlans-portfolio.vercel.app
+- 🔗 GitHub: https://github.com/azlanbaig8910
