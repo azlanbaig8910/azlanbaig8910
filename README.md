@@ -1,27 +1,27 @@
 # Hi, I'm Azlan 👋
 
 I'm a **Frontend Developer** with **1+ year of professional experience** building modern, responsive, and high-performance web applications using **React, Next.js, and TypeScript**.  
-I focus on **clean UI**, **scalable frontend architecture**, and **real-world usability**, and I’m currently expanding my skills toward **backend and full-stack development**.
+I focus on **clean UI**, **scalable frontend architecture**, and **real-world usability**, and I’m currently expanding my skill set toward **backend and full-stack development**.
 
 ---
 
 ## 💼 Professional Experience
 
 ### Frontend Developer — Fronx Solutions  
-**Duration:** Dec 2024 – Present (1+ Year)
+**Dec 2024 – Present**
 
-- Developed and maintained production-level frontend applications
-- Built reusable and scalable UI components using **React & Next.js**
-- Worked with **TypeScript** to ensure maintainable and type-safe code
-- Collaborated with designers and backend teams to ship complete features
-- Improved UI consistency, performance, and overall user experience
-- Followed modern frontend best practices and component-driven development
+- Develop and maintain production-level frontend applications
+- Build reusable, scalable UI components using **React & Next.js**
+- Write maintainable and type-safe code with **TypeScript**
+- Collaborate with designers and backend engineers to deliver complete features
+- Improve UI consistency, performance, and overall user experience
+- Follow modern frontend best practices and component-driven architecture
 
 ### Frontend Developer Intern — Personide Solutions  
-**Duration:** Sep 2024 – Dec 2024 (3 Months)
+**Sep 2024 – Dec 2024 (3 Months)**
 
-- Assisted in building responsive web interfaces
-- Implemented UI components based on design requirements
+- Assisted in building responsive and user-friendly web interfaces
+- Implemented UI components based on design specifications
 - Gained hands-on experience with real-world frontend workflows
 - Learned professional development practices, Git collaboration, and debugging
 
@@ -53,7 +53,7 @@ I focus on **clean UI**, **scalable frontend architecture**, and **real-world us
 - Gemini
 - GitHub Copilot  
 
-> I use AI tools to **accelerate learning, debugging, and development**, while fully understanding and owning the final code.
+> I use AI tools to **speed up development, learning, and debugging**, while fully understanding and owning the final codebase.
 
 ---
 
@@ -66,7 +66,7 @@ I focus on **clean UI**, **scalable frontend architecture**, and **real-world us
 
 ### Backend & Full-Stack Foundations
 - Backend fundamentals (APIs, server-side logic)
-- Authentication & data handling concepts
+- Authentication and data-handling concepts
 - Learning backend development alongside AI-assisted workflows
 
 ---
@@ -80,13 +80,13 @@ I focus on **clean UI**, **scalable frontend architecture**, and **real-world us
 - Dynamic job feeds, company profiles, and dashboards
 - Focus on performance, accessibility, and smooth navigation
 
-🌐 Live: https://hiralent-beta.vercel.app
-🔗 Source Code: https://github.com/azlanbaig8910/Hiralent
+🌐 **Live:** https://hiralent-beta.vercel.app  
+🔗 **Source Code:** https://github.com/azlanbaig8910/Hiralent
 
 ---
 
 ## 📫 Contact
 
-- 📩 Email: azlanbaig8910@gmail.com
-- 🌐 Website: https://azlans-portfolio.vercel.app
-- 🔗 GitHub: https://github.com/azlanbaig8910
+- 📩 Email: **azlanbaig8910@gmail.com**
+- 🌐 Portfolio: **https://azlans-portfolio.vercel.app**
+- 🔗 GitHub: **https://github.com/azlanbaig8910**
