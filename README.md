@@ -17,7 +17,7 @@ I'm a **Frontend Developer** with **1+ year of professional experience** buildin
 - Follow modern frontend best practices and component-driven architecture
 
 ### Frontend Developer Intern — Personide Solutions  
-**Sep 2024 – Dec 2024 (3 Months)**
+**Sep 2024 – Dec 2024**
 
 - Assisted in building responsive and user-friendly web interfaces
 - Implemented UI components based on design specifications
