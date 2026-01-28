@@ -74,7 +74,7 @@ I’m a **Frontend Developer** with over 2+ years of professional experience bui
 ## 🌟 Featured Project
 
 ### Hiralent — Hiring & Job Listing Platform
-- Modern frontend built with **React & Next.js**
+- Modern frontend built with **Next.js & TypeScript**
 - Responsive layouts and reusable UI components
 - Frontend authentication flows and protected routes
 - Interactive job listings, company profiles, and dashboards
