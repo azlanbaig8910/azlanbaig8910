@@ -4,25 +4,26 @@ I'm a **Frontend Developer** with **1+ year of professional experience** buildin
 
 ---
 
-## 💼 Professional Experience
+💼 Professional Experience
 
 ### Frontend Developer — Fronx Solutions  
 **Dec 2024 – Present**
 
 - Develop and maintain production-level frontend applications
-- Build reusable, scalable UI components using **React & Next.js**
-- Write maintainable and type-safe code with **TypeScript**
+- Build reusable and scalable UI components using React & Next.js
+- Write maintainable and type-safe code with TypeScript
 - Collaborate with designers and backend engineers to deliver complete features
-- Improve UI consistency, performance, and overall user experience
+- Improve UI consistency, performance, and user experience
 - Follow modern frontend best practices and component-driven architecture
 
-### Frontend Developer Intern — Personide Solutions  
-**Sep 2024 – Dec 2024**
+### Frontend Developer — Personide Solutions  
+**Dec 2023 – Dec 2024**
 
-- Assisted in building responsive and user-friendly web interfaces
+- Built responsive and user-centric web interfaces using React
 - Implemented UI components based on design specifications
+- Improved layout responsiveness and usability
 - Gained hands-on experience with real-world frontend workflows
-- Learned professional development practices, Git collaboration, and debugging
+- Worked with Git-based collaboration and debugging practices
 
 ---
 
