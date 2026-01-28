@@ -1,29 +1,29 @@
 # Hi, I'm Azlan 👋
 
-I’m a Frontend Developer with professional experience building responsive, scalable, and user-centric web applications. I specialize in creating intuitive interfaces using React and Next.js, with a strong focus on performance, accessibility, and maintainable code. I enjoy turning complex ideas into clean, usable experiences and continuously improving my skills with modern frontend workflows and AI-assisted development.
+I’m a **Frontend Developer** with over 2+ years of professional experience building **responsive**, **scalable**, and **user-centric** web applications. I specialize in creating intuitive interfaces using **React** and **Next.js**, with a strong focus on **performance**, **accessibility**, and **maintainable code**. I enjoy turning complex ideas into **clean, usable experiences** and continuously improving my skills with **modern frontend workflows** and **AI-assisted development**.
 
 ---
 
 ## 💼 Professional Experience
 
-### Frontend Developer — Fronx Solutions  
+### **Frontend Developer — Fronx Solutions**  
 **Dec 2024 – Present**
 
-- Develop and maintain production-level frontend applications
-- Build reusable and scalable UI components using React & Next.js
-- Write maintainable and type-safe code with TypeScript
-- Collaborate with designers and backend engineers to deliver complete features
-- Improve UI consistency, performance, and user experience
-- Follow modern frontend best practices and component-driven architecture
+- Develop and maintain **production-level frontend applications**
+- Build **reusable and scalable UI components** using **React & Next.js**
+- Write **maintainable and type-safe code** with **TypeScript**
+- Collaborate with **designers and backend engineers** to deliver complete features
+- Improve **UI consistency, performance, and user experience**
+- Follow **modern frontend best practices** and **component-driven architecture**
 
-### Frontend Developer — Personide Solutions  
+### **Frontend Developer — Personide Technologies**  
 **Dec 2023 – Dec 2024**
 
-- Built responsive and user-centric web interfaces using React
-- Implemented UI components based on design specifications
-- Improved layout responsiveness and usability
-- Gained hands-on experience with real-world frontend workflows
-- Worked with Git-based collaboration and debugging practices
+- Built **responsive and user-centric web interfaces** using **React**
+- Implemented **UI components** based on design specifications
+- Improved **layout responsiveness and usability**
+- Gained hands-on experience with **real-world frontend workflows**
+- Worked with **Git-based collaboration** and debugging practices
 
 ---
 
