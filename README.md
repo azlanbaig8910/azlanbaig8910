@@ -4,7 +4,7 @@ I'm a **Frontend Developer** with **1+ year of professional experience** buildin
 
 ---
 
-💼 Professional Experience
+##💼 Professional Experience
 
 ### Frontend Developer — Fronx Solutions  
 **Dec 2024 – Present**
