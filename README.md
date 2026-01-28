@@ -75,9 +75,9 @@ I'm a **Frontend Developer** with **1+ year of professional experience** buildin
 ### Hiralent — Hiring & Job Listing Platform
 - Modern frontend built with **React & Next.js**
 - Responsive layouts and reusable UI components
-- Authentication-based user flows
-- Dynamic job feeds, company profiles, and dashboards
-- Focus on performance, accessibility, and smooth navigation
+- Frontend authentication flows and protected routes
+- Interactive job listings, company profiles, and dashboards
+- Strong focus on performance, accessibility, and smooth user experience
 
 🌐 **Live:** https://hiralent-beta.vercel.app  
 🔗 **GitHub:** https://github.com/azlanbaig8910/Hiralent
