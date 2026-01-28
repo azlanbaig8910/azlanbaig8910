@@ -80,7 +80,7 @@ I'm a **Frontend Developer** with **1+ year of professional experience** buildin
 - Focus on performance, accessibility, and smooth navigation
 
 🌐 **Live:** https://hiralent-beta.vercel.app  
-🔗 **Source Code:** https://github.com/azlanbaig8910/Hiralent
+🔗 **GitHub:** https://github.com/azlanbaig8910/Hiralent
 
 ---
 
