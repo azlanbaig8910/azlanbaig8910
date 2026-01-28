@@ -1,7 +1,6 @@
 # Hi, I'm Azlan 👋
 
-I'm a **Frontend Developer** with **1+ year of professional experience** building modern, responsive, and high-performance web applications using **React, Next.js, and TypeScript**.  
-I focus on **clean UI**, **scalable frontend architecture**, and **real-world usability**, and I’m currently expanding my skill set toward **backend and full-stack development**.
+I'm a **Frontend Developer** with **1+ year of professional experience** building modern, responsive, and high-performance web applications using **React, Next.js, and TypeScript**. I focus on **clean UI**, **scalable frontend architecture**, and **real-world usability**, and I’m currently expanding my skill set toward **backend and full-stack development**.
 
 ---
 
