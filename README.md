@@ -39,6 +39,8 @@ I’m a **Frontend Developer** with over 2+ years of professional experience bui
 
 ### State & Architecture
 - React Context API
+- Zustand
+- Redux Toolkit
 - Component-driven development
 - Scalable frontend architecture
 
