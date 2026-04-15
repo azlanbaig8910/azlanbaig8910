@@ -1,30 +1,31 @@
 # Hi, I'm Azlan 👋
 
-I’m a **Frontend Developer** with over 2+ years of professional experience building **responsive**, **scalable**, and **user-centric** web applications. I specialize in creating intuitive interfaces using **React** and **Next.js**, with a strong focus on **performance**, **accessibility**, and **maintainable code**. I enjoy turning complex ideas into **clean, usable experiences** and continuously improving my skills with **modern frontend workflows** and **AI-assisted development**.
+I’m a **Frontend Developer** with over 1+ year of professional experience building **responsive**, **scalable**, and **user-centric** web applications. I specialize in creating intuitive interfaces using **React** and **Next.js**, with a strong focus on **performance**, **accessibility**, and **maintainable code**. I enjoy turning complex ideas into **clean, usable experiences** and continuously improving my skills with **modern frontend workflows** and **AI-assisted development**.
 
 ---
 
 ## 💼 Professional Experience
 
-### **Frontend Developer — Fronx Solutions**  
-**Dec 2024 – Present**
+### Frontend Developer — Deveon Inc  
+**Dec 2025 – Present**
 
-- Develop and maintain **production-level frontend applications**
-- Build **reusable and scalable UI components** using **React & Next.js**
-- Write **maintainable and type-safe code** with **TypeScript**
-- Collaborate with **designers and backend engineers** to deliver complete features
-- Improve **UI consistency, performance, and user experience**
-- Follow **modern frontend best practices** and **component-driven architecture**
+- Building modern, scalable web applications using **Next.js, React & TypeScript**  
+- Developing high-performance, responsive UI components  
+- Working closely with cross-functional teams (design + backend) to ship features  
+- Enhancing frontend architecture, code quality, and maintainability  
+- Optimizing application performance and UX across devices  
+- Following industry-standard best practices and scalable frontend patterns
 
-### **Frontend Developer — Personide Technologies**  
-**Dec 2023 – Dec 2024**
+### Frontend Developer — Fronx Solutions  
+**Dec 2024 – Dec 2025**
 
-- Built **responsive and user-centric web interfaces** using **React**
-- Implemented **UI components** based on design specifications
-- Improved **layout responsiveness and usability**
-- Gained hands-on experience with **real-world frontend workflows**
-- Worked with **Git-based collaboration** and debugging practices
-
+- Developed and maintained production-level frontend applications  
+- Built reusable and scalable UI components using **React & Next.js**  
+- Wrote clean, maintainable, and type-safe code using **TypeScript**  
+- Collaborated with designers and backend engineers to deliver full features  
+- Improved UI consistency, performance, and overall user experience  
+- Followed modern frontend best practices and component-driven architecture
+  
 ---
 
 ## 🚀 Skills & Technologies
